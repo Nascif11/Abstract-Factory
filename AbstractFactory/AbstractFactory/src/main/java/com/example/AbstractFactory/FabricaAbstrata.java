@@ -1,4 +1,4 @@
-package com.example.AbstractFactory;;=
+package com.example.AbstractFactory;
 
 public interface FabricaAbstrata {
     Processador createProcessador();
